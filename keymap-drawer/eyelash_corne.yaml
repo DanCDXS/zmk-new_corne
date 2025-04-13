@@ -198,11 +198,11 @@ layers:
   - {t: ']', h: '$$mdi:apple-keyboard-option$$', s: '}'}
   EXCEL:
   - {t: \, h: '$$mdi:keyboard-esc$$', s: '|'}
-  - {t: EXCEL, h: toggle}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '7', s: '&'}
   - {t: '8', s: '*'}
   - {t: '9', s: (}
-  - {t: EXCEL, h: toggle}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:arrow-up-bold$$
   - CUT
   - COPY
@@ -222,7 +222,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:arrow-up-bold$$
   - $$mdi:apple-finder$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: EXCEL, h: toggle}
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - {t: '`', h: LGUI, s: '~'}
